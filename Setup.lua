@@ -29,6 +29,6 @@ else
     error("Failed to open config")
 end
 function printidentity()
-	print("Current identity is 7")
+	print("Current identity is 8")
  
 end
